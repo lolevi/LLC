@@ -40,6 +40,7 @@ main {
     object-fit: cover;
   }
 
+  /* Fix Mobile Chrome Bug */
   .P1 .LR-Media {
     width: 100vw;
     height: calc(100vw / 2 * 3);
