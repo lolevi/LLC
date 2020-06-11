@@ -39,6 +39,11 @@ main {
     height: calc(100vw / 2 * 3);
     object-fit: cover;
   }
+
+  .P1 .LR-Media {
+    width: 100vw;
+    height: calc(100vw / 2 * 3);
+  }
 }
 
 .spacer25 {
