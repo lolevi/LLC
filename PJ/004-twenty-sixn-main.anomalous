@@ -1,0 +1,214 @@
+<div class="reorder-wrapper">
+
+  <section class="LR P1 ">
+    <div class="LR-Media border-r">
+      <img src="../PJ/img/004/twenty-sixn.jpg" alt="twenty sixn - the vase & the bracelet design">
+    </div>
+    <div class="LR-Text title">
+      <span>twenty sixn</span>
+    </div>
+  </section>
+
+  <div class="spacer25 border-r" style="width: 75vh;"></div>
+
+  <section class="LR P2">
+    <div class="LR-Text">
+      <h2 class="Project-Nature">Craft / Houseware / Accessories</h2>
+      <h3 class="em2">twenty sixn</h3>
+      <p>
+        is a set of accessories with the specified dimensions in 26mm, is made of aluminum with small wood pieces.
+        <br>
+        The vase is specifically for small flowers, such as those flowers grew on the pathway side of your favourite park. So does the bracelet.
+      </p>
+    </div>
+    <div class="LR-Media border-r">
+      <div class="row3">
+        <figure>
+          <img src="../PJ/img/004/Tiny-Flower-Study-01.jpg" alt=" white tiny flowers on the green land">
+        </figure>
+        <figure>
+          <img src="../PJ/img/004/Tiny-Flower-Study-02.jpg" alt="Levi is checking the flowers">
+        </figure>
+        <figure>
+          <img src="../PJ/img/004/Tiny-Flower-Study-03.jpg" alt="Small white flower on hand for study">
+        </figure>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- <div class="spacer25"></div> -->
+
+  <section class="LR P3">
+    <div class="void">
+
+    </div>
+    <div class="LR-Media-vt border-t border-r border-b">
+      <div class="col3">
+        <figure>
+          <img src="../PJ/img/004/MP-01.jpg" alt="puchasing materials for the design work - a wood rod, aluminum rods and an ice cream">
+        </figure>
+        <figure>
+          <img src="../PJ/img/004/MP-02.jpg" alt="materials and tools for the design work of twenty sixn">
+        </figure>
+        <figure>
+          <img src="../PJ/img/004/MP-03.jpg" alt="the vase of twenty sixn is done">
+        </figure>
+      </div>
+    </div>
+  </section>
+  <section class="LR P4">
+    <div class="LR-Media border-r">
+      <div class="row3">
+        <figure style="    flex: 0.75;">
+          <img src="../PJ/img/004/01.jpg" alt="product shot of the whole set of design of twenty-sixn">
+        </figure>
+        <figure style="    flex: 1.333333333333333;">
+          <img src="../PJ/img/004/02.jpg" alt="close shot of twenty sixn's vase">
+        </figure>
+        <figure style="    flex: 1.333333333333333;">
+          <img src="../PJ/img/004/03.jpg" alt="close shot of twenty sixn's bracelet">
+        </figure>
+      </div>
+    </div>
+
+    <div class="LR-Text border-b">
+      <h3 class="b em1">
+        The Concept
+      </h3>
+      <h4>
+        Put something on something harmonically.
+      </h4>
+      <p>
+        The flower and the hand.
+        <br>
+        The vase and the bracelet.
+      </p>
+    </div>
+  </section>
+
+  <section class="LR P5">
+    <div class="LR-Media">
+      <figure>
+        <img src="../PJ/img/004/End-Cover.jpg" alt="medium shot of the set of twenty-sixn">
+      </figure>
+    </div>
+  </section>
+
+  <div class="P6 spacer25 border-r"></div>
+
+  <section class="LR P6 border-r border-b">
+    <div class="LR-Media">
+      <figure>
+        <img src="../PJ/img/004/2000-01.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/2000-02.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/2000-03.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+    </div>
+  </section>
+
+
+  <div class="P7 spacer12 border-l"></div>
+
+  <section class="LR P7 border-l border-b">
+    <div class="LR-Media">
+      <figure>
+        <img src="../PJ/img/004/300-01.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-02.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-03.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-04.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-05.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-06.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-07.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-08.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/300-09.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+    </div>
+  </section>
+
+
+
+  <div class="spacer12 border-r P8" style="height: calc(25vw / 3 * 2)"></div>
+
+  <section class="LR P8 border-r border-b">
+    <div class="LR-Media">
+      <figure>
+        <img src="../PJ/img/004/450-01.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/450-02.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/450-03.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/1000-01.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/1000-02.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+      <figure>
+        <img src="../PJ/img/004/1000-03.jpg" alt="twenty sixn's bracelet on forearm">
+      </figure>
+    </div>
+  </section>
+
+
+  <section class="LR P9">
+    <div class="LR-Text">
+      <h3 class="em2">"THE END"</h3>
+    </div>
+  </section>
+
+
+  <div class="spacer25 border-r" style="width: 33.3333333333vw;"></div>
+
+  <section class="LR P10 border-l">
+    <div class="LR-Text">
+      <h3 class="em2">twenty sixn</h3>
+      <p>
+        The end of the story
+        <br>
+        and
+        <br>
+        the end of the whole xtory.
+        <br>
+        <br>
+        <br>
+        0820
+        <br>
+        <br>
+        <br>
+      </p>
+    </div>
+  </section>
+
+  <section class="LR P11">
+    <div class="LR-Media">
+      <figure>
+        <img src="../PJ/img/004/End-of-Story.jpg" alt="twenty sixn's bracelet on a bottle neck">
+      </figure>
+    </div>
+  </section>
+
+</div>

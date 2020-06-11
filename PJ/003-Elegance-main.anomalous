@@ -1,0 +1,82 @@
+<section class="W-NR">
+  <figure>
+    <img src="../PJ/img/003/01-Elegance.jpg" alt="Logo of Elegance designed by Levi Lo">
+    <figcaption class="dn">Logo of Elegance designed by Levi Lo</figcaption>
+  </figure>
+  <h2 class="Project-Nature">Design System / Corporate Visual Identity / Graphic Standard Manual</h2>
+  <h3>
+    The Design for Elegance
+  </h3>
+  <p>
+    <span style="color: var(--Elegance);">Elegance</span> was a local beauty company.
+    The logo design was the first priority from the client side.
+    It symbolizes the concept values of the brand.
+    The lady closes her eyes with a faint smile crept across is the moment of grace.
+    Her coloured layered rich hair contrasting the face and the clear shoulder show the minimalism posture of her.
+    The small round earring symbolizes the refined style.
+    Logo is mainly outlined by circular lines, which preserves the peaceful moment of the woman with inner beauty.
+  </p>
+
+  <hr class="gtbm" style="color: var(--Elegance);">
+
+  <h3>
+    Identity of <span style="color: var(--Elegance);">Elegance</span>
+  </h3>
+  <p>
+    This visual identity design is alongside the brand direction - showing the elegance of the women.
+    <br>
+    The visual identity is basing on the business owner’s colour preference - <span style="color: var(--Elegance);">purple</span> only.
+  </p>
+</section>
+
+<section class="W-SD">
+  <figure>
+    <img src="../PJ/img/003/02-GSM-Overview.jpg" alt="Graphic Standard Manual of Elegance, prepared by Levi Lo">
+    <figcaption>Elegance's Graphic Standard Manual</figcaption>
+  </figure>
+
+
+
+  <figure>
+    <img src="../PJ/img/003/03-UI-Overview.jpg" alt="User Interface of Elegance, designed by Levi Lo">
+    <figcaption>Overview of User Interface Design</figcaption>
+  </figure>
+
+
+  <figure>
+    <img src="../PJ/img/003/04-GSM-Colours-and-Typo.jpg" alt="Colour Guide and Typographic Style of Elegance, designed by Levi Lo">
+    <figcaption>Colour Guide and Typographic Style</figcaption>
+  </figure>
+
+
+  <figure>
+    <img src="../PJ/img/003/05-GSM-Icon-Spec.jpg" alt="Icon Specification of Elegance, designed by Levi Lo">
+    <figcaption>Icon Specification</figcaption>
+  </figure>
+
+  <!-- </section>
+<div class="row3"> -->
+  <figure>
+    <img src="../PJ/img/003/06-GSM-Brand-Line.jpg" alt="Brand Line Design and Specification of Elegance, designed by Levi Lo">
+    <figcaption>Brand Line Design and Specification</figcaption>
+  </figure>
+
+  <figure>
+    <img src="../PJ/img/003/07-UI-Theme.jpg" alt="The User Interface Theme of Elegance, designed by Levi Lo">
+    <figcaption>Theme of the User Interface</figcaption>
+  </figure>
+
+  <figure>
+    <img src="../PJ/img/003/08-UI-on-Mobile.jpg" alt="Mobile U. I. Layout, prepared by Levi Lo">
+    <figcaption>Mobile U. I. Layout</figcaption>
+  </figure>
+</section>
+
+<div class="sq-wrapper">
+  <figure class="video-wrapper">
+    <iframe src="https://www.youtube.com/embed/X-IecpBJico?playlist=X-IecpBJico&amp;loop=1&amp;autoplay=1&amp;controls=0&amp;rel=0&amp;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen="" style="width: 100%; height: 100%;">
+    </iframe>
+    <figcaption>Webpage Layout</figcaption>
+  </figure>
+</div>

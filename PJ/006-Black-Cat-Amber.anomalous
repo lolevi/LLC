@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>Black Cat Amber</title>
+  <meta property='og:title' content='Black Cat Amber' />
+  <meta name='description' content="An accessory is made of black amber. Made in Lithuania. Handmade by Levi." />
+  <meta property='og:description' content="An accessory is made of black amber. Made in Lithuania. Handmade by Levi." />
+  <meta property='og:url' content='https://www.levi-lo.com/PJ/006-Black-Cat-Amber.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PJ/006-Black-Cat-Amber.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/006/IMG_1522_Cover_2.jpg' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/006/IMG_1522_Cover_2.jpg" />
+  <meta property="og:image:alt" content="Black Cat Amber made by Levi" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../PJ/006-Black-Cat-Amber.css" type="text/css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Nunito:wght@800&amp;display=swap" rel="stylesheet">
+
+<body class="PJ">
+  <partial src="../NN/header-on-NN.anomalous" />
+
+  <!-- XX -->
+  <main>
+    <partial src="../PJ/006-Black-Cat-Amber-main.anomalous" />
+  </main>
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

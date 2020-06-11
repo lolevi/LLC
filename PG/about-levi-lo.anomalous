@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>about Levi Lo</title>
+  <meta property='og:title' content='about Levi Lo' />
+  <meta name='description' content='What Levi Lo is (objectively)' />
+  <meta property='og:description' content='What Levi Lo is (objectively)' />
+  <meta property='og:url' content='https://www.levi-lo.com/PG/about-levi-lo.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PG/about-levi-lo.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/NN/img/Levi-Lo-Avatar/og.png' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/NN/img/Levi-Lo-Avatar/og.png" />
+  <meta property="og:image:alt" content="Levi Lo Avatar" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../PG/about-levi-lo.css" type="text/css" media="all">
+
+<body class="PG">
+  <partial src="../NN/header-on-NN.anomalous" />
+  <section class="hero-image-general">
+    <div class="hero-image-wrapper">
+      <img src="../HP/svg/hero/HM.svg" alt="levi-lo.com brand graphic">
+    </div>
+  </section>
+
+  <!-- XX -->
+  <main>
+    <partial src="../PG/about-levi-lo-main.html" />
+  </main>
+  <!-- XX -->
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

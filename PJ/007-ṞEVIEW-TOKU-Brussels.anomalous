@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>ṞEVIEW - TOKU Brussels</title>
+  <meta property='og:title' content='ṞEVIEW - TOKU Brussels' />
+  <meta name='description' content="Footwear design review of TOKU Brussels bought in Tallinn, Estonia" />
+  <meta property='og:description' content="Footwear design review of TOKU Brussels bought in Tallinn, Estonia" />
+  <meta property='og:url' content='https://www.levi-lo.com/PJ/007-ṞEVIEW-TOKU-Brussels.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PJ/007-ṞEVIEW-TOKU-Brussels.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/007/IMG_2914.jpg' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/007/IMG_2914.jpg" />
+  <meta property="og:image:alt" content="ṞEVIEW - TOKU Brussels" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../PJ/007-ṞEVIEW-TOKU-Brussels.css" type="text/css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100&amp;display=swap" rel="stylesheet">
+
+<body class="PJ">
+  <partial src="../NN/header-on-NN.anomalous" />
+  <section class="hero-image-general">
+    <div class="hero-image-wrapper">
+      <img src="../PJ/img/007/IMG_3004.jpg" alt="ṞEVIEW - TOKU Brussels - Sino Tableware Design for a Southern Min Restaurant">
+    </div>
+    <div class="hero-TB">
+      TOKU
+      <br>
+      Brussels
+    </div>
+  </section>
+
+  <!-- XX -->
+  <main>
+    <partial src="../PJ/007-ṞEVIEW-TOKU-Brussels-main.anomalous" />
+  </main>
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

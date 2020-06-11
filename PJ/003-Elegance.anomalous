@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>Elegance</title>
+  <meta property='og:title' content='Elegance' />
+  <meta name='description' content="The beauty company's Visual Identity designed by Levi Lo" />
+  <meta property='og:description' content="The beauty company's Visual Identity designed by Levi Lo" />
+  <meta property='og:url' content='https://www.levi-lo.com/PJ/003-Elegance.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PJ/003-Elegance.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/003/01-Elegance-og.jpg' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/003/01-Elegance-og.jpg" />
+  <meta property="og:image:alt" content="Logo of Elegance designed by Levi Lo" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../PJ/003-Elegance.css" type="text/css" media="all">
+
+<body class="PJ">
+  <partial src="../NN/header-on-NN.anomalous" />
+
+  <!-- XX -->
+  <main>
+    <partial src="../PJ/003-Elegance-main.anomalous" />
+  </main>
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

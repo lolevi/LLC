@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>Levi Lo</title>
+  <meta property='og:title' content='Levi Lo' />
+  <meta name='description' content="Levi Lo & Levi Lo's" />
+  <meta property='og:description' content="Levi Lo & Levi Lo's" />
+  <meta property='og:url' content='https://www.levi-lo.com/HP/HM.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/HP/HM.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/NN/img/logo-cf/00.png' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/NN/img/logo-cf/00.png" />
+  <meta property="og:image:alt" content="Levi Lo Logo" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../HP/HM.css" type="text/css" media="all">
+
+<body class="NN">
+  <partial src="../NN/header-on-NN.anomalous" />
+  <section class="hero-image-general">
+    <div class="hero-image-wrapper">
+      <!-- image option -->
+      <!-- <img src="../HP/svg/hero/HM.svg" alt="levi-lo.com brand graphic"> -->
+      <!-- svg option -->
+      <div>
+        <?xml version="1.0" encoding="utf-8"?><svg version="1.1" id="hero-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 720" style="enable-background:new 0 0 1920 720;"
+          xml:space="preserve">
+          <rect id="hero-area" width="1920" height="720" />
+          <path id="hero-graphic" d="M0,0v585h679.1L835.8,0H0z M1920,0h-851.2L912,585h1008V0z" /></svg></div>
+    </div>
+  </section>
+
+  <!-- XX -->
+  <main>
+    <partial src="../HP/PJ-Card-module-HM.anomalous" />
+  </main>
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="../NN/header.css" type="text/css" media="all">
+
+<h1>Levi Lo</h1>
+
+<div class="header-showing">
+  <header class="header">
+    <partial src="../NN/header.html" />
+  </header>
+</div>
+
+<div class="header-spacing">
+  <section class="header">
+    <partial src="../NN/header.html" />
+  </section>
+</div>

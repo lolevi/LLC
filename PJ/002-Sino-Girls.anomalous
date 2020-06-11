@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>Sino Girls</title>
+  <meta property='og:title' content='Sino Girls' />
+  <meta name='description' content="Smiles & joys within the analogue photography, handling by Levi Lo" />
+  <meta property='og:description' content="Smiles & joys within the analogue photography, handling by Levi Lo" />
+  <meta property='og:url' content='https://www.levi-lo.com/PJ/002-Sino-Girls.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PJ/002-Sino-Girls.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/002/other/000019620008_Cover_Image.jpg' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/002/other/000019620008_Cover_Image.jpg" />
+  <meta property="og:image:alt" content="Sino Girls" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../PJ/002-Sino-Girls.css" type="text/css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Meddon&amp;display=swap" rel="stylesheet">
+
+<body class="PJ">
+  <partial src="../NN/header-on-NN.anomalous" />
+  <section class="hero-image-general">
+    <div class="hero-image-wrapper">
+      <img src="../PJ/img/002/other/000019660008_Hero_Image.jpg" alt="Sino Girls">
+    </div>
+    <div class="hero-TB">
+      Sino Girls
+    </div>
+    <!-- <div class="hero-TB hero-TB-TL">
+  <span>
+  </span>
+  <br>
+  <span>
+  </span>
+</div> -->
+  </section>
+
+  <!-- XX -->
+  <main>
+    <partial src="../PJ/002-Sino-Girls-main.anomalous" />
+  </main>
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+<section class="W-NR">
+  <h2>Reach Levi Lo</h2>
+
+  <a href="mailto:hey@levi-lo.com">
+    <partial src="../NN/svg/web-icon/e-meow.svg" />
+    <h3>e-meow</h3>
+    <p>hey@levi-lo.com</p>
+  </a>
+
+  <a target="_blank" href="https://www.buymeacoffee.com/levilo">
+    <partial src="../NN/svg/web-icon/buy-me-a-coffee.svg" />
+    <h3>buy me a coffee</h3>
+    <p>levilo</p>
+  </a>
+
+  <a target="_blank" href="https://www.youtube.com/user/levilohei">
+    <partial src="../NN/svg/web-icon/YouTube.svg" />
+    <h3>YouTube</h3>
+    <p>levilohei</p>
+  </a>
+  <a target="_blank" href="http://instagram.com/lev1">
+    <partial src="../NN/svg/web-icon/Instagram.svg" />
+    <h3>instagram</h3>
+    <p>@lev1</p>
+  </a>
+</section>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://ogp.me/ns#'>
+
+<head>
+  <partial src="../NN/NN-Analytics.anomalous" />
+  <!-- meta -->
+  <!-- NN -->
+  <partial src="../NN/meta-NN.anomalous" />
+
+  <!-- NX -->
+  <meta name='author' content='Levi Lo' />
+  <link type='image/x-icon' rel='icon' href='../NN/img/favicon/HP-LL.ico' />
+  <meta property="og:site_name" content="levi-lo.com">
+
+  <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
+  <!-- XX -->
+  <title>Leafin</title>
+  <meta property='og:title' content='Leafin' />
+  <meta name='description' content="Leafin is a fine designed leaf-like umbrella, by Levi Lo" />
+  <meta property='og:description' content="Leafin is a fine designed leaf-like umbrella, by Levi Lo" />
+  <meta property='og:url' content='https://www.levi-lo.com/PJ/010-Leafin.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PJ/010-Leafin.html' />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/010/cover.jpg' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/010/cover.jpg" />
+  <meta property="og:image:alt" content="Leafin" />
+  <!-- CSS -->
+  <partial src="../NN/CSS-Link-List.anomalous" />
+</head>
+
+<!-- XX -->
+<link rel="stylesheet" href="../PJ/010-Leafin.css" type="text/css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet">
+
+<body class="PJ">
+  <partial src="../NN/header-on-NN.anomalous" />
+  <section class="hero-image-general">
+    <div class="hero-image-wrapper">
+      <img src="../PJ/img/010/cover.jpg" alt="Sword, Spades & Petiole status of Leafin, created by Levi Lo">
+    </div>
+    <div class="hero-image-wrapper hero-image-wrapper-layer-on-top">
+      <img src="../PJ/img/010/cover--logo-on.png" alt="Logo of Leafin, designed by Levi Lo">
+    </div>
+
+  </section>
+
+  <!-- XX -->
+  <main>
+    <partial src="../PJ/010-Leafin-main.anomalous" />
+  </main>
+
+  <partial src="../NN/nav-LLL.html" />
+  <partial src="../NN/footer.html" />
+  <partial src="../NN/aside.anomalous" />
+</body>
+
+</html>

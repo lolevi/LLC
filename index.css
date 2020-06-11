@@ -1,0 +1,12 @@
+h1,
+h2,
+p {
+  display: none;
+}
+
+a img {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
