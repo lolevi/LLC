@@ -37,6 +37,7 @@ main img {
 
 .P1 .LR-Media {
   max-width: 100vh;
+  max-height: 100vw;
   margin: 0 auto;
 }
 
