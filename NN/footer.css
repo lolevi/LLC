@@ -1,0 +1,40 @@
+footer {
+  width: 100%;
+}
+
+section.Copyright {
+  color: var(--K-Ink-II);
+  position: fixed;
+  mix-blend-mode: color-dodge;
+  font-size: 0.75em;
+  bottom: 0;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  padding: 24px 5vw;
+  box-sizing: border-box;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+section.Copyright div {
+  margin: 0 0.375em;
+}
+
+section.Cookies {
+  position: absolute;
+  font-size: 0.625em;
+  top: 0;
+  right: 0;
+  text-align: center;
+  padding: 6px;
+  box-sizing: border-box;
+  opacity: 0.25;
+}
+
+/* NOT USING COOKIES NOW */
+section.Cookies {
+  display: none;
+}

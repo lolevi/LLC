@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.LightroomClassic0{fill-rule:evenodd;clip-rule:evenodd;fill:#0D2531;}
+	.LightroomClassic1{fill-rule:evenodd;clip-rule:evenodd;fill:#AED5EB;}
+</style>
+<g>
+	<g>
+		<rect x="31.2" y="33.1" class="LightroomClassic0" width="137.5" height="133.8"/>
+	</g>
+	<g>
+		<path class="LightroomClassic1" d="M25,26.9v146.2h150V26.9H25z M31.2,33.1h137.5v133.7H31.2V33.1z"/>
+	</g>
+	<path class="LightroomClassic1" d="M66.6,128.9c-0.7,0-0.9-0.3-0.9-0.9V60.8c0-0.5,0.2-0.8,0.7-0.8h9.9c0.5,0,0.6,0.2,0.6,0.7v57.9h25.8
+		c0.5,0,0.7,0.2,0.6,0.7l-1.5,8.9c-0.1,0.5-0.4,0.7-0.9,0.7L66.6,128.9L66.6,128.9z M112.8,88.4c0-0.7,0-2.6-0.3-6.1
+		c0-0.5,0.1-0.6,0.5-0.8c3.8-1.5,12.9-4.3,23-4.3c0.5,0,0.7,0.1,0.7,0.6v9.1c0,0.5-0.2,0.6-0.7,0.6c-3.9-0.2-9.8,0.3-11.9,1.2v39.4
+		c0,0.5-0.2,0.7-0.7,0.7h-9.8c-0.5,0-0.7-0.2-0.7-0.7L112.8,88.4L112.8,88.4z"/>
+</g>
+</svg>

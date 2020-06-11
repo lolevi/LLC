@@ -1,0 +1,129 @@
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_0 {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+/* #LLL_PG {
+  display: none;
+} */
+#LLL_PJ {
+  display: none;
+}
+
+body>div.header-showing>header>div>nav>ul>li:nth-child(4)>a {
+  /* border: solid 1px var(--KingInk); */
+  /* padding: 3px 6px 3px 4.5px; */
+  /* border-radius: 12px; */
+  /* filter: drop-shadow(0px 0px 1px black); */
+  color: var(--K-Ink-VII);
+}
+
+.hero-TB {
+  position: relative;
+  transform: translate(0%, calc(-6.5vw / 1));
+  top: calc(-300vw / 8);
+  left: 66.6666666666%;
+  width: 25vw;
+  height: 0;
+
+  display: none;
+}
+
+.hero-TB h2 {
+  font-size: 6.5vw;
+  opacity: 0.75;
+  line-height: 1;
+}
+
+.hero-image-wrapper {
+  height: calc(300vw / 4);
+  opacity: 0.875;
+}
+
+@media all and (min-width: 480px) {
+  .header-spacing {
+    display: none;
+  }
+}
+
+main {
+  filter: grayscale(1);
+}
+
+main a {
+  text-decoration: unset;
+  margin: 36px 0;
+  display: block;
+}
+
+main a:visited {
+  color: var(--K-Ink-VIII);
+}
+
+main a svg {
+  float: left;
+  height: 1.75em;
+}
+main a h3{
+  font-size: 1em;
+}
+main a p{
+  font-size: 1.5em;
+}
+aside.RHS-FAB {
+  filter: drop-shadow(2px 2px 4px #00000080) grayscale(0.875) !important;
+  mix-blend-mode: color-dodge !important;
+  opacity: 0.75;
+}
+
+body>aside>section>ul>li>a {
+  visibility: hidden;
+  margin-right: 24px;
+}
+
+body>aside>section>ul>li:nth-child(1)>a::after {
+  visibility: visible;
+  content: '⚡️ 🐱';
+}
+
+body>aside>section>ul>li:nth-child(2)>a::after {
+  visibility: visible;
+  content: '💸 ☕️';
+}
+
+body>aside>section>ul>li:nth-child(3)>a::after {
+  visibility: visible;
+  content: '🎥 📺';
+}
+
+body>aside>section>ul>li:nth-child(4)>a::after {
+  visibility: visible;
+  content: '🤳 🖼';
+}
+
+/* 📱 */
+@media all and (max-width: 432px) {
+  main section.W-SD{
+    margin: 36px;
+  }
+}
+
+/* 📱+ +🖥 */
+@media all and (min-width: 433px) and (max-width: 791px){
+  main section.W-SD{
+    width: 360px;
+    margin: 36px auto;
+  }
+}
+
+/* 🖥 */
+@media all and (min-width: 792px) {
+  main section.W-SD{
+    width: 480px;
+    margin: 36px auto;
+  }
+}

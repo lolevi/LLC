@@ -1,0 +1,76 @@
+/* nav-LLL */
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_06 {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+#LLL_PG {
+  display: none;
+}
+
+@media all and (orientation:landscape) and (min-width: 600px) {
+  .header-spacing {
+    /* display: none; */
+  }
+
+  .P1 .LR-Text {
+    width: 50%;
+  }
+}
+
+main img {
+  width: 100%;
+}
+
+.title {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  color: #4d3633;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.P1 .LR-Media {
+  max-width: 100vh;
+  margin: 0 auto;
+}
+
+.P1 img {
+  object-fit: contain;
+}
+
+.LR .P1-Gallery {
+  display: none;
+}
+
+.P1-Gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.P1-Gallery div {
+  flex-basis: 72px;
+  flex-grow: 1;
+}
+
+.P1-Gallery img {
+  width: 100%;
+  display: block;
+}
+
+@media all and (min-width: 960px) {
+  .FW110 {
+    display: none;
+  }
+
+  .LR .P1-Gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin-block-start: 12px;
+  }
+}

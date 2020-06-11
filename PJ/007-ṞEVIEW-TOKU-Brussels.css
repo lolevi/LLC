@@ -1,0 +1,91 @@
+/* nav-LLL */
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_02 {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+#LLL_PG {
+  display: none;
+}
+
+/* 🖥+ */
+@media all and (min-width: 720px) {
+  .hero-image-wrapper {
+    height: calc(100vw / 2.0125);
+    overflow-y: hidden;
+  }
+}
+
+@media (max-width: 719px) {
+  .hero-image-wrapper {
+    height: calc(100vw / 2.0125);
+    overflow-y: hidden;
+  }
+}
+
+.hero-image-wrapper img, .hero-image-wrapper>div {
+  width: 100%;
+  position: relative;
+  bottom: calc(100vw / 3.875);
+  height: unset;
+}
+
+.hero-TB {
+  color: var(--KingBlank);
+}
+
+.hero-TB {
+  top: 50%;
+}
+
+@media (min-width: 720px) {
+  .hero-TB {
+    top: 50%;
+  }
+}
+
+.hero-TB {
+  font-weight: 100;
+  font-size: 10vw;
+  text-shadow: 3px 3px 9px rgba(128, 128, 128, 0.75);
+  letter-spacing: 5vw;
+  padding-left: 7vw;
+}
+
+@media all and (min-width: 600px) and (orientation: landscape) {
+  .LR-Text {
+    justify-content: flex-start;
+    width: 50vw;
+  }
+}
+
+@media all and (orientation:portrait), (min-width: 0px) and (max-width: 599px) {
+  .LR-Text {
+    padding-bottom: 0;
+  }
+}
+
+.LR-Media {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 36px;
+}
+
+@media all and (orientation:landscape) and (min-width: 600px) {
+  .LR-Media {
+    width: calc(100vw / 2);
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+.PJ figure {
+  margin: 12px 6px;
+  flex: 1 0 72px;
+}
+
+figure img {}

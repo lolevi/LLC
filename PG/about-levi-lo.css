@@ -1,0 +1,138 @@
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_00 {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+/* #LLL_PG {
+  display: none;
+} */
+#LLL_PJ {
+  display: none;
+}
+
+body>div.header-showing>header>div>nav>ul>li:nth-child(3)>a {
+  /* border: solid 1px var(--KingInk); */
+  /* padding: 3px 6px 3px 4.5px; */
+  /* border-radius: 12px; */
+  /* filter: drop-shadow(0px 0px 1px black); */
+  color: var(--K-Ink-VII);
+}
+
+.hero-image-general {
+  display: none;
+}
+
+.ALL-card h2 {
+  font-size: 1.5em;
+  padding: 36px 0 18px 0;
+}
+
+.ALL-card h3 {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.ALL-card h4, .ALL-card p, .ALL-card span {
+  font-size: 0.875em;
+  line-height: 1.5;
+}
+
+.op75 {
+  opacity: 0.75;
+}
+
+.ALL-card h5, .ALL-card h6 {
+  font-size: 0.75em;
+  line-height: 1.5;
+}
+
+.ALL-card p.small {
+  font-size: 0.75em;
+  line-height: 1.25;
+}
+
+.info-card {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  line-height: 1;
+  margin-top: 12px;
+}
+
+@media all and (max-width: 479px) {
+  .logo-container {
+    flex: 0 0 36px;
+    margin-right: 12px;
+  }
+}
+
+@media all and (min-width: 480px) {
+  .logo-container {
+    flex: 0 0 72px;
+    margin-right: 36px;
+  }
+}
+
+.logo-container img {
+  width: 100%;
+}
+
+.info-tray {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* title align mid level to logo */
+h3 {
+  /* margin-top: 15px; */
+}
+
+.tool-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.tool-card {
+  flex: 1 0 108px;
+  margin: 6px;
+  align-items: center;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.tool-card img {
+  width: 36px;
+  margin-right: 6px;
+  display: block;
+}
+
+figcaption {
+  font-size: 0.625em;
+  display: block;
+  line-height: 1;
+}
+
+.logo-container.time-v-line-wrapper {}
+
+.time-v-line {
+  border-right: inset 1px black;
+  height: calc(100% - 36px - 36px);
+  /* margin: 9px 0 63px 0; */
+  width: 50%;
+}
+
+.subcard {
+  font-size: smaller;
+}
+
+figcaption {
+  text-align: left;
+}

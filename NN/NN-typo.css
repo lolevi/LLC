@@ -1,0 +1,263 @@
+/* Typographic Style */
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../NN/font/Montserrat-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+:root {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--theme-colour);
+  font-size: 15px;
+  --hx-line-height: 1.75;
+  --inline-height: 1.25;
+}
+
+.PJ main {
+  color: var(--K-Ink-V);
+  --inline-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: var(--hx-line-height);
+  margin-block-start: unset;
+  margin-block-end: unset;
+  margin-inline-start: unset;
+  margin-inline-end: unset;
+  font-weight: unset;
+}
+
+p, span {
+  line-height: var(--inline-height);
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h2.Project-Nature {
+  font-size: 0.75em;
+  opacity: 0.5;
+}
+
+.PJ h2+h3 {
+  margin-block-start: 0;
+}
+
+.PJ h3 {
+  margin-block-start: 1.5em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 0.875em;
+}
+
+h6 {
+  font-size: 0.75em;
+}
+
+p {
+  font-size: 1em;
+}
+
+p.small {
+  font-size: 0.875em;
+}
+
+span {
+  font-size: 1em;
+}
+
+span.small {
+  font-size: 0.875em;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.75em;
+  padding: 9px;
+}
+
+.em3 {
+  font-size: 3em;
+}
+
+.em2 {
+  font-size: 2em;
+}
+
+.em1-5 {
+  font-size: 1.5em;
+}
+
+.em1 {
+  font-size: 1em;
+}
+
+.em0-875 {
+  font-size: 3em;
+}
+
+.em0-75 {
+  font-size: 0.75em;
+}
+
+.em0-625 {
+  font-size: 0.625em;
+}
+
+.em0-5 {
+  font-size: 0.5em;
+}
+
+.tac {
+  text-align: center;
+}
+
+.tar {
+  text-align: right;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.xul {
+  text-decoration: none;
+}
+
+.dil {
+  display: inline;
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Designed by Levi Lo -->
+<!-- for use in levi-lo.com only -->
+
+<svg version="1.1" id="hero-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 720" style="enable-background:new 0 0 1920 720;" xml:space="preserve">
+	<rect id="hero-area" width="1920" height="720"/>
+	<path id="hero-graphic" d="M0,0v585h679.1L835.8,0H0z M1920,0h-851.2L912,585h1008V0z"/>
+</svg>

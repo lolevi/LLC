@@ -1,0 +1,101 @@
+/* standard width */
+@media all and (max-width: 479px) {
+  .W-SD {
+    margin: 36px 24px;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 791px) {
+  .W-SD {
+    margin: 36px 36px;
+  }
+}
+
+@media all and (min-width: 792px) {
+  .W-SD {
+    max-width: 720px;
+    margin: 36px auto;
+  }
+}
+
+/* narrow width */
+@media all and (max-width: 479px) {
+  .W-NR {
+    margin: 36px 24px;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 672px) {
+  .W-NR {
+    margin: 36px 36px;
+  }
+}
+
+@media all and (min-width: 673px) {
+  .W-NR {
+    max-width: 600px;
+    margin: 36px auto;
+  }
+}
+
+/* 480 narrow width */
+@media all and (max-width: 551px) {
+  .W-NR-480 {
+    margin: 36px 24px;
+  }
+}
+
+@media all and (min-width: 552px) {
+  .W-NR-480 {
+    max-width: 480px;
+    margin: 36px auto;
+  }
+}
+
+/* full width */
+/* index: FW📱 📱+ 🖥 */
+/* FW111 FW100 FW110 */
+/* FW111 */
+.FW111 {
+  margin: 36px 0;
+}
+
+/* FW100 */
+@media all and (max-width: 479px) {
+  .FW100 {
+    margin: 36px 0px;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 791px) {
+  .FW100 {
+    margin: 36px 36px;
+  }
+}
+
+@media all and (min-width: 792px) {
+  .FW100 {
+    max-width: 720px;
+    margin: 36px auto;
+  }
+}
+
+/* FW110 */
+@media all and (max-width: 479px) {
+  .FW110 {
+    margin: 36px 0px;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 791px) {
+  .FW110 {
+    margin: 36px 0px;
+  }
+}
+
+@media all and (min-width: 792px) {
+  .FW110 {
+    max-width: 720px;
+    margin: 36px auto;
+  }
+}

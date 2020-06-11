@@ -1,0 +1,30 @@
+.LR-Text {
+  padding: 36px;
+}
+
+.LR-Media {
+  display: flex;
+}
+
+@media all and (orientation:landscape) and (min-width: 600px) {
+  .LR {
+    display: flex;
+  }
+
+  .LR-Media, .LR-Text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .LR-Media {
+    align-items: center;
+  }
+
+  .LR-Text {
+    flex-grow: 1;
+    align-items: flex-start;
+    hyphens: auto;
+    overflow: hidden;
+  }
+}

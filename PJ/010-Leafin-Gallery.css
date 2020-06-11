@@ -1,0 +1,102 @@
+.LeafinFeatureContainer {
+  width: 100vw;
+  background-color: black;
+  box-sizing: border-box;
+}
+
+.LeafinFeatureContainer img {
+  vertical-align: middle;
+  object-fit: cover;
+  width: 100%;
+}
+
+.LeafinFeatureNumberRow, .LeafinFeatureNumberDemo.LeafinFeatureCursor {
+  height: calc(100vw / 4.5);
+}
+
+.LeafinFeatureNumberRow img {
+  width: 100%;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.LeafinFeatureContainer {
+  position: relative;
+}
+
+/* Hide the images by default */
+.LeafinFeatureSlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.LeafinFeatureCursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.LeafinFeaturePrev,
+.LeafinFeatureNext {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 36px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 72px 72px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.LeafinFeatureNext {
+  right: 0;
+  border-radius: 72px 0 0 72px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.LeafinFeaturePrev:hover,
+.LeafinFeatureNext:hover {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+/* Number text (1/3 etc) */
+.LeafinFeatureNumberText {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+/* .caption-container {
+   text-align: center;
+   background-color: #222;
+   padding: 2px 16px;
+   color: white;
+ } */
+.LeafinFeatureNumberRow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.LeafinFeatureNumberColumn {
+  float: left;
+  width: calc(100% / 9);
+  height: calc(100vw / 4.5);
+}
+
+/* Add a transparency effect for thumnbail images */
+.LeafinFeatureNumberDemo {
+  opacity: 0.6;
+}
+
+.active,
+.LeafinFeatureNumberDemo:hover {
+  opacity: 1;
+}

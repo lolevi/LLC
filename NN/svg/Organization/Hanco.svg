@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.Hanco0{fill:#31302E;}
+	.Hanco1{fill:#5F884A;}
+</style>
+<g>
+	<g>
+		<polygon class="Hanco0" points="153.2,25 145.4,25 145.4,77.8 55.9,77.8 55.9,25 29.5,25 29.5,106.7 55.9,106.7 55.9,86 145.4,86
+			145.4,116.8 153.2,116.8 		"/>
+		<rect x="145.4" y="130.4" class="Hanco0" width="7.7" height="44.6"/>
+		<rect x="29.5" y="133.3" class="Hanco0" width="26.4" height="41.7"/>
+	</g>
+	<path class="Hanco0" d="M168.2,98.6h-6.4v-6.4h6.4V98.6z M170.5,89.9h-10.9v10.9h10.9V89.9z"/>
+	<path class="Hanco1" d="M145.4,175H55.9v-41.7c23.4,14.3,59,19.7,89.5,3.7"/>
+	<rect x="153.2" y="137" class="Hanco1" width="15" height="38"/>
+</g>
+</svg>

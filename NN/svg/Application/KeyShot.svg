@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+	<style type="text/css">
+		.KeyShot0 {
+			clip-path: url("#KeyShotSVGID_2_");
+			fill: url("#KeyShotSVGID_3_");
+		}
+		.KeyShot1 {
+			clip-path: url("#KeyShotSVGID_5_");
+			fill: url("#KeyShotSVGID_6_");
+		}
+		.KeyShot2 {
+			clip-path: url("#KeyShotSVGID_8_");
+			fill: url("#KeyShotSVGID_9_");
+		}
+	</style>
+	<g>
+		<g>
+			<defs>
+				<path id="KeyShotSVGID_1_" d="M29.4,99.7c0,39.4,32,71.4,71.4,71.4c39.4,0,71.4-32,71.4-71.4s-32-71.4-71.4-71.4
+				C61.4,28.3,29.4,60.3,29.4,99.7"/>
+			</defs>
+			<clipPath id="KeyShotSVGID_2_">
+				<use xlink:href="#KeyShotSVGID_1_" style="overflow:visible;"/>
+			</clipPath>
+
+			<linearGradient id="KeyShotSVGID_3_" gradientUnits="userSpaceOnUse" x1="-499.5738" y1="700.0052" x2="-499.4291" y2="700.0052" gradientTransform="matrix(0 -986.8817 -986.8817 0 690923.125 -492849.125)">
+				<stop offset="0" style="stop-color:#3F5CAA"/>
+				<stop offset="1" style="stop-color:#47C8F5"/>
+			</linearGradient>
+			<rect x="29.4" y="28.3" class="KeyShot0" width="142.8" height="142.8"/>
+		</g>
+		<g>
+			<defs>
+				<path
+					id="KeyShotSVGID_4_"
+					d="M77.2,164.1c-2-0.7-3-1.8-3.7-3.8c-3.8-11.4-5.8-22.8-6.1-34.9c0-1.1,1.3-1.7,2.1-0.9
+				c17.3,17.3,39.6,28.7,63.7,32.7c1.1,0.2,1.4,1.7,0.4,2.3c-10.4,5.8-20.6,8.5-32.4,8.6c-0.3,0-0.6,0-0.9,0
+				C92.3,168.1,84.8,166.8,77.2,164.1 M139.3,153.4c-11.8-2.4-22.7-6.4-33.2-12.2c-1-0.5-0.8-1.9,0.3-2.2
+				c23.6-6.4,44.7-19.9,60.2-38.8c0.7-0.9,2.2-0.4,2.1,0.8c-0.2,11.8-2.9,22-8.7,32.4c-4.1,7.3-9.1,13.4-15.6,18.8
+				c-1.2,1-2.3,1.5-3.6,1.5C140.3,153.6,139.8,153.5,139.3,153.4 M65.3,158.4c-10.2-6.1-17.6-13.6-23.7-23.8
+				c-4.3-7.2-7-14.6-8.5-22.9c-0.4-2.1,0-3.5,1.4-5.1c8-9,16.9-16.4,27.2-22.7c0.9-0.6,2.1,0.3,1.8,1.3c-6.3,23.6-5.1,48.7,3.5,71.6
+				c0.3,0.9-0.4,1.6-1.1,1.6C65.8,158.6,65.5,158.6,65.3,158.4 M32.1,98.8c0.2-11.8,2.9-22,8.7-32.4C45,59.1,50,53,56.4,47.6
+				c1.6-1.3,3.1-1.7,5.1-1.3c11.8,2.4,22.7,6.4,33.2,12.2c1,0.5,0.8,1.9-0.3,2.2c-23.6,6.4-44.7,19.9-60.2,38.8
+				c-0.3,0.3-0.6,0.4-0.9,0.4C32.7,100,32.1,99.5,32.1,98.8 M137.2,114.3c6.3-23.6,5.1-48.7-3.5-71.6c-0.4-1.1,0.8-2.1,1.8-1.5
+				c10.2,6.1,17.6,13.6,23.7,23.8c4.3,7.2,7,14.6,8.5,22.9c0.4,2.1,0,3.5-1.4,5.1c-8,9-16.9,16.4-27.2,22.7
+				c-0.2,0.1-0.4,0.2-0.6,0.2C137.7,115.8,137,115.1,137.2,114.3 M131.3,75.2C114,57.9,91.7,46.4,67.6,42.4
+				c-1.1-0.2-1.4-1.7-0.4-2.3c10.4-5.8,20.6-8.5,32.4-8.6c8.4-0.1,16.2,1.2,24.1,4.1c2,0.7,3,1.8,3.7,3.8
+				c3.8,11.4,5.8,22.8,6.1,34.9c0,0.7-0.6,1.2-1.2,1.2C131.9,75.5,131.6,75.4,131.3,75.2 M25,100c0,41.4,33.6,75,75,75
+				c41.4,0,75-33.6,75-75c0-41.4-33.6-75-75-75C58.6,25,25,58.6,25,100"/>
+			</defs>
+			<clipPath id="KeyShotSVGID_5_">
+				<use xlink:href="#KeyShotSVGID_4_" style="overflow:visible;"/>
+			</clipPath>
+
+			<radialGradient id="KeyShotSVGID_6_" cx="-500.0004" cy="700.0007" r="0.1447" gradientTransform="matrix(518.3333 0 0 -518.3333 259266.875 362933.6562)" gradientUnits="userSpaceOnUse">
+				<stop offset="0" style="stop-color:#F3F3F3"/>
+				<stop offset="0.95" style="stop-color:#F3F3F3"/>
+				<stop offset="1" style="stop-color:#CCCBCA"/>
+			</radialGradient>
+			<rect x="25" y="25" class="KeyShot1" width="150" height="150"/>
+		</g>
+		<g>
+			<defs>
+				<path
+					id="KeyShotSVGID_7_"
+					d="M104.5,68.3C95.4,70.2,86.7,73,78.3,77c-1.6,0.8-2.5,1.8-3.1,3.5c-3,8.9-4.8,17.8-5.6,27.1
+				c-0.2,1.8,0.3,3.1,1.5,4.5c6.2,7,13,13,20.7,18.4c1.5,1,2.8,1.3,4.6,0.9c9.2-1.9,17.8-4.7,26.2-8.7c1.6-0.8,2.5-1.8,3.1-3.5
+				c3-8.9,4.8-17.8,5.6-27.1c0.2-1.8-0.3-3.1-1.5-4.5c-6.2-7-13-13-20.7-18.4c-1.1-0.7-2.1-1.1-3.2-1.1
+				C105.5,68.2,105,68.2,104.5,68.3"/>
+			</defs>
+			<clipPath id="KeyShotSVGID_8_">
+				<use xlink:href="#KeyShotSVGID_7_" style="overflow:visible;"/>
+			</clipPath>
+
+			<linearGradient id="KeyShotSVGID_9_" gradientUnits="userSpaceOnUse" x1="-499.5736" y1="700.0061" x2="-499.4289" y2="700.0061" gradientTransform="matrix(0 -438.0096 -438.0096 0 306709.8125 -218686.5)">
+				<stop offset="0" style="stop-color:#010101"/>
+				<stop offset="1" style="stop-color:#565656"/>
+			</linearGradient>
+			<rect x="69.4" y="68.2" class="KeyShot2" width="62" height="63.6"/>
+		</g>
+	</g>
+</svg>

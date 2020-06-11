@@ -1,0 +1,35 @@
+/* Swatch */
+:root {
+  --KingInk: #231F20;
+  --K-Ink-XI: #3E3E3F;
+  --K-Ink-VIII: #565759;
+  --K-Ink-VII: #6B6C6F;
+  --K-Ink-VI: #7E8083;
+  --K-Ink-V: #919396;
+  --K-Ink-IV: #A5A7AA;
+  --K-Ink-III: #BABCBE;
+  --K-Ink-II: #CFD1D2;
+  --K-Ink-I: #E4E5E6;
+  --KingBlank: #FBFBFB;
+  --theme-colour: var(--KingInk);
+}
+
+/* unvisited link */
+a:link {
+  color: var(--K-Ink-VIII);
+}
+
+/* visited link */
+a:visited {
+  color: var(--K-Ink-V);
+}
+
+/* mouse over link */
+a:hover {
+  color: var(--theme-colour);
+}
+
+/* selected link */
+a:active {
+  color: var(--K-Ink-IV);
+}

@@ -1,0 +1,84 @@
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_NN {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+/* #LLL_PG {
+  display: none;
+} */
+#LLL_PJ {
+  display: none;
+}
+
+body>div.header-showing>header>div>nav>ul>li:nth-child(2)>a {
+  /* border: solid 1px var(--KingInk); */
+  /* padding: 3px 6px 3px 4.5px; */
+  /* border-radius: 12px; */
+  /* filter: drop-shadow(0px 0px 1px black); */
+  color: var(--K-Ink-VII);
+}
+
+img.hero {
+  height: calc(100vw / 3);
+  object-fit: cover;
+  min-height: 30vh;
+}
+
+.intro h2 {
+  letter-spacing: 0.5em;
+  word-break: break-word;
+}
+
+/* 🖥+ */
+@media all and (min-width: 600px) {
+  .hero-image-wrapper {
+    height: calc(100vw / 2);
+  }
+
+  .intro h2 {
+    letter-spacing: 0.75em;
+  }
+}
+
+.intro p {
+  letter-spacing: 0.125em;
+}
+
+.LLL-Card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-container {
+  flex: 1 1 240px;
+  max-width: 320px;
+}
+
+.info-container {
+  flex: 2 1 400px;
+}
+
+.info-container a {
+  display: block;
+  text-decoration: none;
+}
+
+.content h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.content h3 {
+  font-size: 1em;
+  opacity: 0.5;
+}
+
+.content span {
+  font-size: 0.75em;
+}

@@ -1,0 +1,5 @@
+@media all and (orientation:portrait), (min-width: 0px) and (max-width: 599px) {
+  .LR {
+    display: block;
+  }
+}

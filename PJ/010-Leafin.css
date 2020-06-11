@@ -1,0 +1,95 @@
+/* nav-LLL */
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_02 {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+#LLL_PG {
+  display: none;
+}
+
+@media all and (min-width: 720px) {
+  .hero-image-wrapper {
+    /* height: calc(100vw / 2); */
+  }
+}
+
+.hero-image-wrapper-layer-on-top {
+  position: absolute;
+  top: 0;
+  mix-blend-mode: hard-light;
+  opacity: 0.875;
+}
+
+.hero-image-wrapper-layer-on-top:hover {
+  mix-blend-mode: color-burn;
+}
+
+h3, h4, h5, h6 {
+  color: #c49a6c;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+figcaption {
+   font-size: 0.875em;
+  padding: 9px;
+}
+
+.SectionTitle {
+  color: #39b54a;
+  font-size: 0.625em;
+  opacity: 0.75;
+  margin-top: 36px;
+}
+
+.leafingreen {
+  color: #39b54a;
+}
+
+.PJ figure {
+  margin: 18px 0;
+}
+
+.LeafinR2 figcaption {
+  text-align: left;
+}
+
+@media all and (min-width: 480px) {
+  .LeafinR2 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+  .LeafinR2 figure {
+    width: 50%;
+    margin: 18px;
+  }
+}
+
+.DevelopmentmentBox {
+  background-color: #39b54a;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.DevelopmentmentBox figcaption {
+  background-color: white;
+}
+
+.DevelopmentmentBox figure {
+  margin: 0;
+  flex-basis: 240px;
+  flex-grow: 1;
+}
+
+.DevelopmentmentBox img {
+  mix-blend-mode: screen;
+  display: block;
+}

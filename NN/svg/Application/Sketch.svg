@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+	<style type="text/css">
+		.Sketch0 {
+			fill: #FCB316;
+		}
+		.Sketch1 {
+			fill: #E86E24;
+		}
+		.Sketch2 {
+			fill: #FBAD18;
+		}
+		.Sketch3 {
+			fill: #FCD234;
+		}
+		.Sketch4 {
+			fill: #FEEEB8;
+		}
+	</style>
+	<g id="Page-1">
+		<g id="sketch-symbol">
+			<polygon id="Path" class="Sketch0" points="57.7,36.6 100,32.1 142.3,36.6 175,80.5 100,167.9 25,80.5 		"/>
+			<g id="Group" transform="translate(0.000000, 126.881084)">
+				<polygon class="Sketch1" points="55.4,-46.3 100,41 25,-46.3 			"/>
+				<polygon class="Sketch1" points="144.6,-46.3 100,41 175,-46.3 			"/>
+				<polygon class="Sketch2" points="55.4,-46.3 144.6,-46.3 100,41 			"/>
+			</g>
+			<g>
+				<polygon class="Sketch3" points="100,32.1 57.7,36.6 55.4,80.5 			"/>
+				<polygon class="Sketch3" points="100,32.1 142.3,36.6 144.6,80.5 			"/>
+				<polygon class="Sketch2" points="175,80.5 142.3,36.6 144.6,80.5 			"/>
+				<polygon class="Sketch2" points="25,80.5 57.7,36.6 55.4,80.5 			"/>
+				<polygon class="Sketch4" points="100,32.1 55.4,80.5 144.6,80.5 			"/>
+			</g>
+		</g>
+	</g>
+</svg>
