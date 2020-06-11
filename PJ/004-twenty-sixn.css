@@ -33,6 +33,11 @@ main {
     mix-blend-mode: overlay;
     color: white;
   }
+
+  .P1 img {
+    width: 100%;
+    object-fit: cover;
+  }
 }
 
 .spacer25 {
@@ -41,11 +46,6 @@ main {
 
 .spacer12 {
   display: none;
-}
-
-.P1 img {
-  width: 100%;
-  object-fit: cover;
 }
 
 .title {
