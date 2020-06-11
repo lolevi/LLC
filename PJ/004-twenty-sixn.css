@@ -45,6 +45,7 @@ main {
 
 .P1 img {
   width: 100%;
+  object-fit: cover;
 }
 
 .title {
