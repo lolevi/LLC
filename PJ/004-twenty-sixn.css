@@ -35,7 +35,7 @@ main {
   }
 
   .P1 img {
-    width: 100%;
+    width: 100vw;
     height: calc(100vw / 2 * 3);
     object-fit: cover;
   }
