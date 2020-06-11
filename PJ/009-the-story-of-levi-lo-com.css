@@ -72,6 +72,8 @@ p {
 
 .image-wrapper img {
   width: calc(100% / 3);
+  height: : calc(100% / 3);
+  object-fit: cover;
   display: block;
   flex-grow: 1;
 }
