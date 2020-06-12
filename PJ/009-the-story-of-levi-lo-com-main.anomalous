@@ -17,21 +17,21 @@
   </p>
 
   <div class="image-wrapper gtbm">
-    <div class="image-row">
+    <!-- <div class="image-row"> -->
       <img src="../PJ/img/009/1.jpg" alt="A project by Levi Lo">
       <img src="../PJ/img/009/2.jpg" alt="A project by Levi Lo">
       <img src="../PJ/img/009/3.jpg" alt="A project by Levi Lo">
-    </div>
-    <div class="image-row">
+    <!-- </div>
+    <div class="image-row"> -->
       <img src="../PJ/img/009/9.jpg" alt="A project by Levi Lo">
       <img src="../PJ/img/009/7.jpg" alt="A project by Levi Lo">
       <img src="../PJ/img/009/8.jpg" alt="A project by Levi Lo">
-    </div>
-    <div class="image-row">
+    <!-- </div>
+    <div class="image-row"> -->
       <img src="../PJ/img/009/4.jpg" alt="A project by Levi Lo">
       <img src="../PJ/img/009/5.jpg" alt="A project by Levi Lo">
       <img src="../PJ/img/009/6.jpg" alt="A project by Levi Lo">
-    </div>
+    <!-- </div> -->
   </div>
 
   <!-- <hr class="gtbm"> -->
