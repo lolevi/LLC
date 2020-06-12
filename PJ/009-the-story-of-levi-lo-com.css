@@ -69,8 +69,8 @@ p {
   flex-basis: 240px;
 } */
 .image-wrapper img {
-  width: 80px;
-  height: 80px;
+  width: 72px;
+  height: 72px;
 }
 
 @media all and (min-width: 480px) {
