@@ -61,6 +61,7 @@ p {
 .image-wrapper {
   display: flex;
   flex-wrap: wrap;
+  height: fit-content;
 }
 
 .image-wrapper .image-row {
