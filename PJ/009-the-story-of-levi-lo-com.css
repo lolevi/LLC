@@ -75,6 +75,7 @@ p {
   width: calc(100% / 3);
   height: auto;
   display: block;
+  object-fit: contain;
 }
 
 @media all and (min-width: 480px) {
