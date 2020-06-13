@@ -15,13 +15,13 @@
   <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
   <!-- XX -->
   <title>Levi Lo</title>
-  <meta property='og:title' content='Levi Lo' />
+  <meta property='og:title' content='levi-lo.com' />
   <meta name='description' content="Levi Lo & Levi Lo's" />
   <meta property='og:description' content="Levi Lo & Levi Lo's" />
   <meta property='og:url' content='https://www.levi-lo.com/HP/HM.html' />
   <link rel='canonical' href='https://www.levi-lo.com/HP/HM.html' />
-  <meta property='og:image' content='http://www.levi-lo.com/NN/img/logo-cf/00.png' />
-  <meta property="og:image:secure_url" content="https://www.levi-lo.com/NN/img/logo-cf/00.png" />
+  <meta property='og:image' content='http://www.levi-lo.com/NN/img/logo-sq/00.png' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/NN/img/logo-sq/00.png" />
   <meta property="og:image:alt" content="Levi Lo Logo" />
   <!-- CSS -->
   <partial src="../NN/CSS-Link-List.anomalous" />
