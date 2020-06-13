@@ -18,8 +18,8 @@
   <meta property='og:title' content='ṞEVIEW - TOKU Brussels' />
   <meta name='description' content="Footwear design review of TOKU Brussels bought in Tallinn, Estonia" />
   <meta property='og:description' content="Footwear design review of TOKU Brussels bought in Tallinn, Estonia" />
-  <meta property='og:url' content='https://www.levi-lo.com/PJ/007-ṞEVIEW-TOKU-Brussels.html' />
-  <link rel='canonical' href='https://www.levi-lo.com/PJ/007-ṞEVIEW-TOKU-Brussels.html' />
+  <meta property='og:url' content='https://www.levi-lo.com/PJ/007-TOKU-Brussels.html' />
+  <link rel='canonical' href='https://www.levi-lo.com/PJ/007-TOKU-Brussels.html' />
   <meta property='og:image' content='http://www.levi-lo.com/PJ/img/007/IMG_2914.jpg' />
   <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/007/IMG_2914.jpg" />
   <meta property="og:image:alt" content="ṞEVIEW - TOKU Brussels" />
@@ -28,7 +28,7 @@
 </head>
 
 <!-- XX -->
-<link rel="stylesheet" href="../PJ/007-ṞEVIEW-TOKU-Brussels.css" type="text/css" media="all">
+<link rel="stylesheet" href="../PJ/007-TOKU-Brussels.css" type="text/css" media="all">
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100&amp;display=swap" rel="stylesheet">
 
 <body class="PJ">
@@ -46,7 +46,7 @@
 
   <!-- XX -->
   <main>
-    <partial src="../PJ/007-ṞEVIEW-TOKU-Brussels-main.anomalous" />
+    <partial src="../PJ/007-TOKU-Brussels-main.anomalous" />
   </main>
 
   <partial src="../NN/nav-LLL.html" />
