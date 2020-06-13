@@ -20,8 +20,8 @@
   <meta property='og:description' content="the process of designs, content management and coding behind levi-lo.com" />
   <meta property='og:url' content='https://www.levi-lo.com/PJ/009-the-story-of-levi-lo-com.html' />
   <link rel='canonical' href='https://www.levi-lo.com/PJ/009-the-story-of-levi-lo-com.html' />
-  <meta propserty='og:image' content='http://levi-lo.com/PJ/img/009/cover.png' />
-  <meta property="og:image:secure_url" content="https://levi-lo.com/PJ/img/009/cover.png" />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/009/cover.png' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/009/cover.png" />
   <meta property="og:image:alt" content="the story of levi-lo.com" />
   <!-- CSS -->
   <partial src="../NN/CSS-Link-List.anomalous" />
