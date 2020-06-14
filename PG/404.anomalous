@@ -41,7 +41,7 @@
     <h2 class="dn">Sung Sung</h2>
     <p>Hello. This is <span class="b">Sung Sung</span>, a little fluffly bear pomeranian-like kid. And the page you requested doesn't not exist, but Sung Sung does. Say hi to Sung Sung and you will be directed to the homepage of levi-lo.com</p>
     <a href="../HP/HM.html">
-      <img src="../PG/img/hero/000039460005-WM.jpg" alt="Sung Sung is too cute." />
+      <img src="/PG/img/hero/000039460005-WM.jpg" alt="Sung Sung is too cute." />
     </a>
   </main>
 
