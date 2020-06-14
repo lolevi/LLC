@@ -26,12 +26,13 @@
   <meta property="og:image:secure_url" content="https://www.levi-lo.com/PG/img/hero/000039460005-WM.jpg" />
   <meta property="og:image:alt" content="Sung Sung is a human actually." />
   <!-- CSS -->
-  <partial src="NN/CSS-Link-List.anomalous" />
+  <partial src="NN/CSS-Link-List-LV1-XOO.anomalous" />
+
 </head>
 
 <!-- XX -->
-<link rel="stylesheet" href="https://www.levi-lo.com/404.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.levi-lo.com/404.css" type="text/css" media="all">
+<link rel="stylesheet" href="/404.css" type="text/css" media="all">
+<link rel="stylesheet" href="../NN/footer.css" type="text/css" media="all">
 
 <body class="NN">
   <!-- <pXXXartial src="NN/header-on-NN.anomalous" /> -->
