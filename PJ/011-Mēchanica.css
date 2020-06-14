@@ -1,0 +1,41 @@
+/* nav-LLL */
+/* NN type selector */
+/* #LLL_L_012345678 */
+#LLL_L_01 {
+  background: #ffffff;
+  border-radius: 72px;
+  filter: invert(1) drop-shadow(2px 2px 4px #00000080);
+}
+
+/* TB type selector */
+#LLL_PG {
+  display: none;
+}
+
+/* 🖥+ */
+@media all and (min-width: 720px) {
+  .hero-image-wrapper {
+    height: calc(100vw / 2);
+  }
+}
+
+.hero-TB, .hero-TB-TL {
+  color: var(--KingBlank);
+}
+
+.hero-TB {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 100;
+  font-size: 10vw;
+  text-shadow: 3px 3px 9px rgba(128, 128, 128, 0.75);
+}
+
+@media (min-width: 720px) {
+  .hero-TB {
+    top: 47.5%;
+  }
+
+  .hero-TB-TL {
+    top: 92.5%
+  }
+}
