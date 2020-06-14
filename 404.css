@@ -22,18 +22,5 @@ a {
 }
 
 section.Copyright {
-    color: var(--K-Ink-II);
-    position: fixed;
-    mix-blend-mode: color-dodge;
-    font-size: 0.75em;
-    bottom: 0;
-    text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 100%;
     padding: 10vw 5vw;
-    box-sizing: border-box;
-    left: 50%;
-    transform: translateX(-50%);
 }
