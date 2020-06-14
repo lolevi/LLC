@@ -1,1 +1,2 @@
-ErrorDocument 404 https://www.levi-lo.com/PG/404.html
+RewriteEngine On
+ErrorDocument 404 /PG/404.html
