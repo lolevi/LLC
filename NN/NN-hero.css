@@ -76,4 +76,5 @@ section.hero-image-general {
   /* default top lv setting */
   top: 80%;
   font-size: 1em;
+  min-width: 90vw;
 }

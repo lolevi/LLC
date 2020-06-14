@@ -16,12 +16,12 @@
   <!-- XX -->
   <title>Mēchanica</title>
   <meta property='og:title' content='Mēchanica' />
-  <meta name='description' content="Sino Tableware Design for a Southern Min Restaurant" />
-  <meta property='og:description' content="Sino Tableware Design for a Southern Min Restaurant" />
+  <meta name='description' content="A black genuine Leather film camera bag designed by Levi Lo." />
+  <meta property='og:description' content="A black genuine Leather film camera bag designed by Levi Lo." />
   <meta property='og:url' content='https://www.levi-lo.com/PJ/011-Mēchanica.html' />
   <link rel='canonical' href='https://www.levi-lo.com/PJ/011-Mēchanica.html' />
-  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/011/01.jpg' />
-  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/011/01.jpg" />
+  <meta property='og:image' content='http://www.levi-lo.com/PJ/img/011/00.jpg' />
+  <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/011/00.jpg" />
   <meta property="og:image:alt" content="Mēchanica" />
   <!-- CSS -->
   <partial src="../NN/CSS-Link-List.anomalous" />
@@ -29,23 +29,22 @@
 
 <!-- XX -->
 <link rel="stylesheet" href="../PJ/011-Mēchanica.css" type="text/css" media="all">
-<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100&amp;display=swap" rel="stylesheet">
 
 <body class="PJ">
   <partial src="../NN/header-on-NN.anomalous" />
   <section class="hero-image-general">
     <div class="hero-image-wrapper">
-      <img src="../PJ/img/011/01.jpg" alt="Mēchanica - Sino Tableware Design for a Southern Min Restaurant">
+      <img src="../PJ/img/011/01.jpg" alt="Mēchanica - A black genuine Leather film camera bag designed by Levi Lo.">
     </div>
-    <div class="hero-TB">
+    <div class="hero-TB dn">
       Mēchanica
     </div>
     <div class="hero-TB-TL">
-      <span>Tableware Design
+      <span>Mēchanica
       </span>
       <br>
       <span>
-        for a Southern Min Restaurant
+        a black genuine Leather film camera bag
       </span>
     </div>
   </section>
