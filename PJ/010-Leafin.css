@@ -73,23 +73,23 @@ figcaption {
   }
 }
 
-.DevelopmentmentBox {
+.DevelopmentBox {
   background-color: #39b54a;
   display: flex;
   flex-wrap: wrap;
 }
 
-.DevelopmentmentBox figcaption {
+.DevelopmentBox figcaption {
   background-color: white;
 }
 
-.DevelopmentmentBox figure {
+.DevelopmentBox figure {
   margin: 0;
   flex-basis: 240px;
   flex-grow: 1;
 }
 
-.DevelopmentmentBox img {
+.DevelopmentBox img {
   mix-blend-mode: screen;
   display: block;
 }
