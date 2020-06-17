@@ -14,7 +14,7 @@
 
   <meta name='keywords' content='Design,Product,Graphic,Visual,Identity,Brand,Art,Craft,Photography,VLog,Production' />
   <!-- XX -->
-  <title>reach Levi Lo</title>
+  <title>Cookie Statement</title>
   <meta property='og:title' content='Cookie Statement' />
   <meta name='description' content='chocolate quukieee is da best🍪' />
   <meta property='og:description' content='chocolate quukieee is da best🍪' />
@@ -32,14 +32,6 @@
 
 <body class="PG">
   <partial src="../NN/header-on-NN.anomalous" />
-  <section class="hero-image-general">
-    <div class="hero-image-wrapper">
-      <img src="../PG/img/hero/RLL.JPG" alt="Reach Levi Lo">
-    </div>
-    <div class="hero-TB">
-      <!-- <h2>Reach Levi Lo</h2> -->
-    </div>
-  </section>
 
   <!-- XX -->
   <main>
