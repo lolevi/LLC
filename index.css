@@ -5,8 +5,11 @@ p {
 }
 
 a img {
-  width: 100%;
+  width: 50%;
+  max-width: 360px;
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  left: 50%;
+  transform: translate(-50%, -50%);
+  object-fit: contain;
 }
