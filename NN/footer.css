@@ -34,6 +34,19 @@ section.Cookies {
   opacity: 0.25;
 }
 
+section.TnC {
+  position: fixed;
+  font-size: 0.625em;
+  bottom: 0;
+  left: 50%;
+  text-align: center;
+  padding: 6px;
+  box-sizing: border-box;
+  opacity: 0.5;
+  transform: translateX(-50%);
+  width: 95vw;
+}
+
 /* NOT USING COOKIES NOW */
 section.Cookies {
   display: none;

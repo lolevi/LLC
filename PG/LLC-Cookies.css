@@ -1,0 +1,28 @@
+.nav-LLL {
+  display: none;
+}
+
+.hero-TB {
+  position: relative;
+  transform: translate(0%, calc(-6.5vw / 1));
+  top: calc(-300vw / 8);
+  left: 66.6666666666%;
+  width: 25vw;
+  height: 0;
+  display: none;
+}
+
+.hero-TB h2 {
+  font-size: 6.5vw;
+  opacity: 0.75;
+  line-height: 1;
+}
+
+.hero-image-wrapper {
+  height: calc(300vw / 4);
+  opacity: 0.875;
+}
+
+h3 {
+    margin-block-start: 3em;
+}
