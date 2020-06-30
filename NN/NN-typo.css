@@ -192,6 +192,10 @@ p {
   font-size: 1em;
 }
 
+p+p {
+  margin-block-start: 2em;
+}
+
 p.small {
   font-size: 0.875em;
 }
