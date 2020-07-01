@@ -17,12 +17,12 @@
   <title>Bright</title>
   <meta property='og:title' content='Bright' />
   <meta name='description' content="Bright is a limited handmade art print designed and screen printed by Levi Lo" />
-  <meta property='og:description' content="Bright is a limited handmade art print designed and screen printed by Levi Lo" />
+  <meta property='og:description' content="A limited handmade art print which is designed and screen printed by Levi Lo" />
   <meta property='og:url' content='https://www.levi-lo.com/PJ/013-Bright.html' />
   <link rel='canonical' href='https://www.levi-lo.com/PJ/013-Bright.html' />
   <meta property='og:image' content='http://www.levi-lo.com/PJ/img/013/IMG_7333-sq.jpg' />
   <meta property="og:image:secure_url" content="https://www.levi-lo.com/PJ/img/013/IMG_7333-sq.jpg" />
-  <meta property="og:image:alt" content="Bright" />
+  <meta property="og:image:alt" content="Bright is a limited handmade art print designed and screen printed by Levi Lo" />
   <!-- CSS -->
   <partial src="../NN/CSS-Link-List.anomalous" />
 </head>
@@ -34,7 +34,7 @@
   <partial src="../NN/header-on-NN.anomalous" />
   <section class="hero-image-general">
     <div class="hero-image-wrapper">
-      <img src="../PJ/img/013/IMG_7245-90r.jpg" alt="Bright - a limited handmade art print designed and screen printed by Levi Lo">
+      <img src="../PJ/img/013/IMG_7245-90r.jpg" alt="Bright is a limited handmade art print designed and screen printed by Levi Lo">
     </div>
     <div class="hero-TB">
       Bright
