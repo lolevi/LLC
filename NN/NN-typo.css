@@ -250,6 +250,14 @@ figcaption {
   font-size: 0.5em;
 }
 
+.em0-375 {
+  font-size: 0.375em;
+}
+
+.em0-25 {
+  font-size: 0.25em;
+}
+
 .tac {
   text-align: center;
 }

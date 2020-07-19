@@ -33,3 +33,19 @@ a:hover {
 a:active {
   color: var(--K-Ink-IV);
 }
+
+.colour10 {
+  color: var(--KingInk);
+}
+
+.colour5 {
+  color: var(--K-Ink-V);
+}
+
+.colour0 {
+  color: var(--KingBlank);
+}
+
+.colourtheme {
+  color: var(--theme-colour);
+}
