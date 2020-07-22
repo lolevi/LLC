@@ -67,3 +67,24 @@ a.xul.em1-25 {
   width: 50vw;
   border-right: solid 6px black;
 }
+
+.LLJIG-PV {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.LLJIG-PV a {
+  flex-basis: 240px;
+  position: relative;
+  margin: 24px;
+  filter: drop-shadow(2px 4px 6px rgb(0 0 0 / 0.5));
+}
+
+.LLJIG-CAP {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  color: white;
+  font-weight: normal;
+}
